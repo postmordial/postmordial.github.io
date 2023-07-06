@@ -1,6 +1,6 @@
 # Postmordial's man-made horror (it's actually pretty decent)
 
-![Screenshot](src/screenshot.png)
+![Screenshot](public/screenshot.png)
 
 - time taken: 2 days
 - head pats from cat: 20
